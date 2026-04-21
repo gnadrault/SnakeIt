@@ -1,4 +1,0 @@
-repository "SnakeProject/SnakeProject@9072337107928@cloud"
-  path "/"
-    br "/main"
-    co "/main"
